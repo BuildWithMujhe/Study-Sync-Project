@@ -22,4 +22,8 @@ StudySync is a simple and modern educational website designed to make learning e
 ## About
 This project was created to practice and improve my frontend development skills.
 
+## Live Demo
+
+[View StudySync Website](https://buildwithmujhe.github.io/Study-Sync-Project/)
+
 Made with ❤️ by Abhinav Kumar
